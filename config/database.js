@@ -28,7 +28,6 @@ module.exports = {
     username: DB_USER,
     password: DB_PASSWORD,
     database: `${DB_NAME}_production`,
-    uri: DB_URI,
     host: DB_HOST,
     port: DB_PORT,
     dialect: "postgres"
