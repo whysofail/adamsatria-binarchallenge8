@@ -7,3 +7,7 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+#Link Railway
+
+[RailwayApp](https://adamsatria-binarchallenge8-production.up.railway.app/)
